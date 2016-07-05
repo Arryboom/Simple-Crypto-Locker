@@ -1,4 +1,4 @@
-# Baic Concepts of a cryptolocker - USING A WINDOWS MACHINE
+# Basic Concepts of a cryptolocker - USING A WINDOWS MACHINE
 
 Author: Quentin Mayo 
 
